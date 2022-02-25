@@ -9,5 +9,5 @@ module.exports = {
       "accessToken": "8DSh8L49iogQd1jNUtFqPcNZWmkOuRNF7dT4ckBBQYQ",
       "spaceId": "f8prwnjrws8j"
     }
-  }, "gatsby-plugin-sass"]
+  }, "gatsby-plugin-sass", "gatsby-plugin-image"]
 };
