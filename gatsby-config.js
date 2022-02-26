@@ -18,6 +18,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     "gatsby-plugin-resolve-src",
     `gatsby-plugin-sharp`,
+    "gatsby-plugin-postcss",
     {
       resolve: `gatsby-plugin-react-redux`,
       options: {
